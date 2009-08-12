@@ -1,5 +1,3 @@
-Release notes.
-
 = Version 1.0.2 =
   * Added maven build (pom.xml).
   * Starting with this version this library is available in a maven web repository.
