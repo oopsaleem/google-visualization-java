@@ -4,6 +4,7 @@
   * Added setCell method to DataTable class.
   * Added support for SKIPPING clause in the query language.
   * Added support for MODULO operator in the query language.
+  * Fixed bug: Response content type for JSON/P is not valid.
   * Fixed bug: java.util.TreeMap initialization in QueryEngine causes compilation error.
   * Fixed bug: Where clause with column names that contain spaces does not work for SQL datasources (Issue 16).
   * Fixed bug: SQL data source dates are shifted (Issue 11).
